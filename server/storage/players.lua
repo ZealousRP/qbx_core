@@ -1,6 +1,6 @@
 local defaultSpawn = require 'config.shared'.defaultSpawn
 local characterDataTables = require 'config.server'.characterDataTables
-
+--test
 ---@param request InsertBanRequest
 ---@return boolean success
 ---@return ErrorResult? errorResult
